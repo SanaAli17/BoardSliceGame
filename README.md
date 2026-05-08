@@ -22,6 +22,20 @@ It helps compare both algorithms on efficiency, complexity, and the optimal numb
 
 ---
 
+## Requirments
+
+- **tkinter** for creating the graphical user interface.
+- **math** for performing mathematical operations.
+- **winsound** for adding sound notifications.
+  
+---
+
+## Main command to run the game:
+
+```
+python main.py
+```
+
 ---
 
 ## Conclusion
